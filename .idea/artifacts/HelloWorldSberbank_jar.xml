@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelloWorldSberbank:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloWorldSberbank_jar</output-path>
+    <root id="archive" name="HelloWorldSberbank.jar">
+      <element id="module-output" name="HelloWorldSberbank" />
+    </root>
+  </artifact>
+</component>
